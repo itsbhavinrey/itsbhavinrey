@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning **Laravel, Next, Spring Boot**
 
-- 💬 Ask me about **TypeScript, Java**
+- 💬 Ask me about **TypeScript, Java, PHP**
 
 - 📫 How to reach me **itsbhavinrey@gmail.com**

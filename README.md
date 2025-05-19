@@ -6,7 +6,3 @@
 - 💬 Ask me about **TypeScript, Java**
 
 - 📫 How to reach me **itsbhavinrey@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
